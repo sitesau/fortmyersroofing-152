@@ -1,0 +1,19 @@
+{
+  "wheel_id": 363,
+  "structure": "umbrella",
+  "slug": "fortmyersroofing-152",
+  "project": "roof-repairs-fort-myers-d1eea45d96e0b15bc100d3d4a9f1d9e7d914dfc",
+  "parent_t1_ref": "fortmyersroofing-004",
+  "node_role": "buffer",
+  "money_target": "fortmyersroofing.net",
+  "primary_kw": "roof repairs fort myers",
+  "intended_url": "http://roof-repairs-fort-myers-d1eea45d96e0b15bc100d3d4a9f1d9e7d914dfc.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "e8908953bf88df18",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/roof-repairs-fort-myers-fortmyersroofing-004/",
+      "anchor": "roof repairs fort myers",
+      "rel": "follow"
+    }
+  ]
+}
